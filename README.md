@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Ole
-- 👀 I’m interested in Music, Coding and CyberSec Challenges.
-- 🌱 I’m currently studying Computer Science @FAU University
+👋 Hi, I’m @Ole - studying Computer Science @FAU University 
+👀 I’m interested in Audio Development & Music, Coding and CyberSec challenges.
